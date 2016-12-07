@@ -1,0 +1,15 @@
+$main: #000;
+
+body {
+  color:$main;
+  padding:25px;
+  margin:10px;
+  columns: 300px 2;
+}
+
+#section {
+  background-color:red;
+  a {
+    color:green;
+  }
+}
